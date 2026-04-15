@@ -1,0 +1,1 @@
+Use the account ID returned by STS and compare it with the `Principal` in `trust-policy.json`. In LocalStack this should be `000000000000`.
